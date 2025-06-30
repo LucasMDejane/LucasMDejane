@@ -7,13 +7,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasMDejane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMDejane&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## 👨‍💻 Sobre mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas** com experiência em implantação de softwares, testes e análise de código.  
@@ -45,3 +38,18 @@ Gosto de desafios que envolvam lógica, performance e escalabilidade.
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=flat)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26.svg?style=flat&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=LucasMDejane&show_icons=true&count_private=true&theme=tokyonight" height="180px"/>
+
+<!-- Linguagens mais usadas -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMDejane&layout=compact&langs_count=6&theme=tokyonight" height="180px"/>
+
+<!-- Gráfico de atividade -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMDejane&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
