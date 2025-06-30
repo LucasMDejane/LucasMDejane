@@ -42,14 +42,6 @@ Gosto de desafios que envolvam lógica, performance e escalabilidade.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=LucasMDejane&show_icons=true&count_private=true&theme=tokyonight" height="180px"/>
-
-<!-- Linguagens mais usadas -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMDejane&layout=compact&langs_count=6&theme=tokyonight" height="180px"/>
-
-<!-- Gráfico de atividade -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMDejane&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasMDejane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMDejane&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
