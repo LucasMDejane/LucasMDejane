@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Fullstack Junior com sólida experiência no ecossistema .NET (C#, ASP.NET Core) e desenvolvimento com React, Node.js e Xamarin.Android. Atuação de ponta a ponta na arquitetura de APIs REST, modernização de sistemas legados, integrações complexas (ERPs) e implementação de soluções com Inteligência Artificial. Sólidos conhecimentos em bancos de dados (SQL Server, Oracle), Azure DevOps, migração Cloud e aplicação de boas práticas (SOLID, Clean Code). Com inglês avançado e vivência em metodologias ágeis, busco construir arquiteturas escaláveis e de alta performance.
+Desenvolvedor Fullstack Pleno com sólida experiência no ecossistema .NET (C#, ASP.NET Core) e desenvolvimento com React, Node.js e Xamarin.Android. Atuação de ponta a ponta na arquitetura de APIs REST, modernização de sistemas legados, integrações complexas (ERPs) e implementação de soluções com Inteligência Artificial. Sólidos conhecimentos em bancos de dados (SQL Server, Oracle), Azure DevOps, migração Cloud e aplicação de boas práticas (SOLID, Clean Code). Com inglês avançado e vivência em metodologias ágeis, busco construir arquiteturas escaláveis e de alta performance.
 
 
 * 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (UNIP).
