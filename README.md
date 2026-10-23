@@ -8,9 +8,8 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor de Software** com foco no ecossistema **Microsoft (.NET)**. Atualmente, atuo na **Viceri SEIDOR**, trabalhando com desenvolvimento de APIs REST, ASP.NET Core e sustentação de sistemas legados (VB6), além de participar de projetos de migração para Cloud e otimização de banco de dados.
+Desenvolvedor Fullstack Junior com sólida experiência no ecossistema .NET (C#, ASP.NET Core) e desenvolvimento com React, Node.js e Xamarin.Android. Atuação de ponta a ponta na arquitetura de APIs REST, modernização de sistemas legados, integrações complexas (ERPs) e implementação de soluções com Inteligência Artificial. Sólidos conhecimentos em bancos de dados (SQL Server, Oracle), Azure DevOps, migração Cloud e aplicação de boas práticas (SOLID, Clean Code). Com inglês avançado e vivência em metodologias ágeis, busco construir arquiteturas escaláveis e de alta performance.
 
-Minha trajetória inclui experiência com integração de ERPs, Webservices (REST/SOAP) e metodologias ágeis (Scrum). Sou apaixonado por Clean Code, SOLID e por resolver problemas complexos de performance e escalabilidade.
 
 * 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (UNIP).
 
